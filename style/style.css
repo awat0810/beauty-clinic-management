@@ -1,0 +1,56 @@
+
+
+body {
+    background-color: #f8f9fa;
+    padding-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: #0d6efd;
+}
+
+.table img {
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+}
+
+.table thead th {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table tbody td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.add-btn {
+    float: right;
+}
+
+.table-responsive {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.table tbody tr:hover {
+    background-color: #e9ecef;
+    transition: 0.3s;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
